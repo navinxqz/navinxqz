@@ -5,7 +5,7 @@
 - ⚡ Currently learning **C# and Frameworks**
 - 📫 To reach me: **cyt.navin6@gmail.com**
 - 🎓 [navinmdnawshin@gmail.com](navinmdnawshin@gmail.com)
-- 🌱 Connect with me:  <a href="https://instagram.com/avocado_.exe" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="avocado_.exe" height="23" width="110" /></a>
+- 🌱 Connect with me: <a href="https://instagram.com/avocado_.exe" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="avocado_.exe" height="23" width="110" /></a>
 </p>
 
 <h3 align="left">💻Languages & Tools:</h3>
