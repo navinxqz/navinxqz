@@ -10,8 +10,6 @@
 </p>
 
 <h2 align="left">💻Languages & Tools:</h2>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=navinxqz&show_icons=false&theme=rose_pine"width="500" height="200"/></p>
-
 <p align="left"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" width="58" height="30"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" width="73" height="30"/>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp" width="68" height="30"/>
@@ -23,3 +21,5 @@
 <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" alt="krita" width="90" height="30"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navinxqz&show_icons=true&locale=en&layout=normal&theme=rose_pine" alt="navinxqz" width="250" height="100"/></p>
+</br></br></br></br></br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=navinxqz&show_icons=false&theme=rose_pine"width="330" height="150"/></p>
