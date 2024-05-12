@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="90" height="30"/>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="70" height="40"/></a>
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"/><img src="https://www.cdnlogo.com/logos/a/88/adobe-photoshop.svg" alt="photoshop" width="40" height="32"/></a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"/><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator" width="165" height="30"/></a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"/><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="32"/></a>
 <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" alt="krita" width="90" height="30"/></p>
 
 <hr/>
