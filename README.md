@@ -1,5 +1,6 @@
 <h1 align="center">⛄Hi, I'm Navin</h1>
 <h3 align="center">I'm an engineering student</h3>
+<img align="right" alt ="avocado" width= "280" src="https://s6.ezgif.com/tmp/ezgif-6-406ff9ac55.gif">
 
 👩🏻‍🎓 Studying Computer Science & Engineering at [AIUB](https://www.aiub.edu/)</br>
 ⚡ Currently learning **C# and Frameworks**</br>
