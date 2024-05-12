@@ -1,5 +1,6 @@
 <h1 align="center">⛄Hi, I'm Navin</h1>
 <h3 align="center">I'm an engineering student</h3>
+<img align="right"  width= "190" src="https://github-readme-stats.vercel.app/api/top-langs?username=navinxqz&show_icons=true&locale=en&layout=normal&theme=rose_pine" alt="navinxqz"">
 
 👩🏻‍🎓 Studying Computer Science & Engineering at [AIUB](https://www.aiub.edu/)</br>
 ⚡ Currently learning **C# and Frameworks**</br>
@@ -20,6 +21,4 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"/><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator" width="165" height="30"/></a>
 <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" alt="krita" width="90" height="30"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navinxqz&show_icons=true&locale=en&layout=normal&theme=rose_pine" alt="navinxqz" width="250" height="100"/></p>
-</br></br></br></br></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=navinxqz&show_icons=false&theme=rose_pine"width="330" height="150"/></p>
