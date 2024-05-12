@@ -20,5 +20,8 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"/><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator" width="165" height="30"/></a>
 <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" alt="krita" width="90" height="30"/></p>
 
-## Repository Stats
-![Navin's GitHub stats](https://github-readme-stats.vercel.app/api?username=navinxqz&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navinxqz&layout=compact&theme=dark)
+<hr/>
+<p align="start">
+  <img src ="https://github-readme-stats.vercel.app/api?username=navinxqz&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img align="right" height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=navinxqz&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+</p>
