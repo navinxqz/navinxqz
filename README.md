@@ -51,9 +51,10 @@
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
         <br>HTML5
+        </td>
+      
  </tr>
  <tr>
-      </td>
     <td align="center" width="96"> 
         <img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" width="45" height="45" alt="oracle" />
       <br>Oracle
@@ -79,10 +80,9 @@
         <br>ClipStudio
       </td>
 
-    
+ </tr>
 </table>
-<br><br>
-</table>
+<br>
 
 <hr/>
 <p align="start">
