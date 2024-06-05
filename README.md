@@ -29,7 +29,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="icon" width="40" height="40" />
+        <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="icon" width="40" height="40" />
         <br>C
       </td>
     <td align="center" width="96">
@@ -55,7 +55,7 @@
  <tr>
       </td>
     <td align="center" width="96"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45" alt="oracle" />
+        <img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" width="45" height="45" alt="oracle" />
       <br>Oracle
     </td>
     <td align="center" width="96">
@@ -67,7 +67,7 @@
         <br>Git
       </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
+        <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="40" height="40" alt="VsCode" />
         <br>VsCode
       </td>
     <td align="center" width="96">
@@ -76,7 +76,7 @@
       </td>
     <td align="center" width="96">
         <img src="https://img.icons8.com/?size=100&id=oZIUvTHvwcQk&format=png&color=000000" width="40" height="40" alt="clipstudio" />
-        <br>Clip Studio
+        <br>ClipStudio
       </td>
 
     
