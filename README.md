@@ -5,9 +5,8 @@
 
 👩🏻‍🎓 Studying Computer Science & Engineering at [AIUB](https://www.aiub.edu/)</br>
 ⚡ Currently learning **C# and Frameworks**</br>
-🎨 I'm also a **digital illustrator**</br>
+🎨 I do **digital illustration**</br>
 📫 To reach me: **cyt.navin6@gmail.com**</br>
-🎓 [navinmdnawshin@gmail.com](navinmdnawshin@gmail.com)</br>
 🌱 Connect with me: <a href="https://instagram.com/avocado_.exe" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" alt="avocado_.exe"/></a>
 
 
@@ -33,7 +32,7 @@
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" title="C++"/> <br>C++ </td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" title="C#"/><br>C# </td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/><br>Java </td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" title=".Net"/><br>Dotnet </td>
+    <td align="center" width="96"><img src="https://icon.icepanel.io/Technology/svg/.NET.svg" width="40" height="40" title=".Net"/><br>Dotnet </td>
     <td align="center"  width="96"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" title="HTML"/><br>HTML5 </td>
       
  </tr><tr>
@@ -48,7 +47,8 @@
 
 <h2></h2>
 <p align="start">
-  <img src ="https://github-readme-stats.vercel.app/api?username=navinxqz&show_icons=true&theme=dark&hide_border=true&bg_color=00000000">
-  <img align="right" height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=navinxqz&layout=compact&hide_border=true&theme=dark&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api?username=navinxqz&show_icons=true&theme=react&hide_border=true&bg_color=00000000">
+  <img align="right" height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=navinxqz&langs_count=3&count_private=true&layout=compact&hide_border=true&theme=react&bg_color=00000000">
 </p>
+
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{navinxqz}/count.svg" /></p> 
