@@ -1,6 +1,6 @@
 <h1 align="center">⛄Hi, I'm Navin</h1>
 <h3 align="center">I'm an engineering student</h3>
-<a href="https://www.instagram.com/avocado_.exe/" target="_blank" rel="noreferrer"/><img align="right"  alt="avocado" width="200"  src="https://github.com/navinxqz/navinxqz/blob/main/3825a992-8050-4b00-8ac1-dad6e73ddbbd.png">
+<a href="https://www.instagram.com/avocado_.exe/" target="_blank" rel="noreferrer"/><img align="right"  alt="avocado" width="180"  src="https://github.com/navinxqz/navinxqz/blob/main/3825a992-8050-4b00-8ac1-dad6e73ddbbd.png">
 
 
 👩🏻‍🎓 Studying Computer Science & Engineering at [AIUB](https://www.aiub.edu/)</br>
