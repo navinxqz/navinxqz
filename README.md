@@ -29,63 +29,26 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-    <td align="center" width="96">
-        <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="icon" width="40" height="40" />
-        <br>C
-      </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
-        <br>C++
-      </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" />
-        <br>C#
-      </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="https://www.java.com" />
-        <br>Java
-      </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt="Vue" />
-        <br>Dotnet
-      </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-        <br>HTML5
-        </td>
+    <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="icon" width="40" height="40" title="C"/><br>C </td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" title="C++"/> <br>C++ </td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" title="C#"/><br>C# </td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/><br>Java </td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" title=".Net"/><br>Dotnet </td>
+    <td align="center"  width="96"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" title="HTML"/><br>HTML5 </td>
       
- </tr>
- <tr>
-    <td align="center" width="96"> 
-        <img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" width="45" height="45" alt="oracle" />
-      <br>Oracle
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
-        <br>MySQL
-      </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
-        <br>Git
-      </td>
-    <td align="center" width="96">
-        <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="40" height="40" alt="VsCode" />
-        <br>VsCode
-      </td>
-    <td align="center" width="96">
-        <img src="https://www.cdnlogo.com/logos/a/88/adobe-photoshop.svg" width="40" height="40" alt="photoshop" />
-        <br>Photoshop
-      </td>
-    <td align="center" width="96">
-        <img src="https://img.icons8.com/?size=100&id=oZIUvTHvwcQk&format=png&color=000000" width="40" height="40" alt="clipstudio" />
-        <br>ClipStudio
-      </td>
+ </tr><tr>
+    <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" width="45" height="45" title="oracle" /><br>Oracle</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" title="MySQL" /><br>MySQL</td>
+    <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" title="Git" /><br>Git</td>
+    <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="40" height="40" title="VS Code" /><br>VsCode</td>
+    <td align="center" width="96"><img src="https://www.cdnlogo.com/logos/a/88/adobe-photoshop.svg" width="40" height="40" title="photoshop cc 19" /><br>Photoshop</td>
+    <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=oZIUvTHvwcQk&format=png&color=000000" width="40" height="40" title="Clip Studio Paint" /><br>ClipStudio</td>
 
- </tr>
-</table>
+ </tr></table>
 
 <h2></h2>
 <p align="start">
   <img src ="https://github-readme-stats.vercel.app/api?username=navinxqz&show_icons=true&theme=dark&hide_border=true&bg_color=00000000">
   <img align="right" height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=navinxqz&layout=compact&hide_border=true&theme=dark&bg_color=00000000">
 </p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{navinxqz}/count.svg" /></p> 
