@@ -11,7 +11,7 @@
 
 
 </p>
-<h2 align="left">🍄Languages & Tools:</h2>
+<h2 align="left">🍄 Languages & Tools:</h2>
 <!--
 <p align="left"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" width="58" height="30"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" width="73" height="30"/>
