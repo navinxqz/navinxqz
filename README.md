@@ -4,14 +4,14 @@
 
 
 👩🏻‍🎓 Studying Computer Science & Engineering at [AIUB](https://www.aiub.edu/)</br>
-⚡ Currently learning **C# and Frameworks**</br>
+🌱 Currently learning **C# and Frameworks**</br>
 🎨 I do **digital illustration & commissions**</br>
 📫 To reach me: **cyt.navin6@gmail.com**</br>
-🌱 Connect with me: <a href="https://instagram.com/avocado_.exe" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" alt="avocado_.exe"/></a>
+🎃 Connect with me: <a href="https://instagram.com/avocado_.exe" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" alt="avocado_.exe"/></a>
 
 
 </p>
-<h2 align="left">💻Languages & Tools:</h2>
+<h2 align="left">🍄Languages & Tools:</h2>
 <!--
 <p align="left"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" width="58" height="30"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" width="73" height="30"/>
