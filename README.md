@@ -5,7 +5,7 @@
 
 👩🏻‍🎓 Studying Computer Science & Engineering at [AIUB](https://www.aiub.edu/)</br>
 ⚡ Currently learning **C# and Frameworks**</br>
-🎨 I do **digital illustration**</br>
+🎨 I do **digital illustration & commissions**</br>
 📫 To reach me: **cyt.navin6@gmail.com**</br>
 🌱 Connect with me: <a href="https://instagram.com/avocado_.exe" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" alt="avocado_.exe"/></a>
 
