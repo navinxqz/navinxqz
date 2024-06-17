@@ -52,3 +52,4 @@
 </p>
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{navinxqz}/count.svg" /></p> 
+Thank for visiting :>
