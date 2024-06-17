@@ -52,5 +52,6 @@
 </p>
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{navinxqz}/count.svg" /></p> 
+<p align="center"><img height=150px src="https://streak-stats.demolab.com?user=navinxqz&theme=react&hide_border=true&bg_color=0D1117"></p></br>
 <p align="center">
 Thank for visiting :></p>
