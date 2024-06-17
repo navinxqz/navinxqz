@@ -51,7 +51,5 @@
   <img align="right" height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=navinxqz&langs_count=4&count_private=true&layout=compact&hide_border=true&theme=react&bg_color=0D1117">
 </p>
 
-<p align="center"><img height=150px src="https://streak-stats.demolab.com?user=navinxqz&theme=react&hide_border=true&bg_color=0D1117"></p>
+<!--  <p align="center"><img height=150px src="https://streak-stats.demolab.com?user=navinxqz&theme=react&hide_border=true&bg_color=0D1117"></p>  -->
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{navinxqz}/count.svg" /></p>
-<p align="center">
-Thank for visiting :></p>
