@@ -48,7 +48,7 @@
 <h2></h2>
 <p align="start">
   <img src ="https://github-readme-stats.vercel.app/api?username=navinxqz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
-  <img align="right" height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=navinxqz&langs_count=6&count_private=false&layout=compact&hide_border=true&theme=react&bg_color=0D1117">
+  <img align="right" height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=navinxqz&langs_count=6&layout=compact&hide_border=true&theme=react&bg_color=0D1117">
 </p>
 
 <!--  <p align="center"><img height=150px src="https://streak-stats.demolab.com?user=navinxqz&theme=react&hide_border=true&bg_color=0D1117"></p>  -->
