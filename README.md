@@ -47,8 +47,8 @@
 
 <h2 align="left">🛠 Github Stats:</h2>
 <p align="start">
-  <img src ="https://github-readme-stats.vercel.app/api?username=navinxqz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
-  <img align="right" height="50%" width="30%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=navinxqz&theme=react&bg_color=0D1117&hide_border=true&hide=Batchfile&include_all_commits=false&count_private=false&layout=compact">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=navinxqz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
+  <img align="right" height="50%" width="33%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=navinxqz&theme=react&bg_color=0D1117&hide_border=true&hide=Batchfile&include_all_commits=false&count_private=false&layout=compact">
   <img align="center" height="50%" width="auto" src ="https://github-readme-activity-graph.vercel.app/graph?username=navinxqz&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
 </p>
 
