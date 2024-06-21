@@ -49,7 +49,7 @@
 <p align="start">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=navinxqz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
   <img align="right" height="50%" width="33%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=navinxqz&theme=react&bg_color=0D1117&hide_border=true&hide=Batchfile&include_all_commits=false&count_private=false&layout=compact">
-  <img align="center" height="50%" width="auto" src ="https://github-readme-activity-graph.vercel.app/graph?username=navinxqz&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+  <img align="center" height="50%" width="auto" src ="https://github-readme-activity-graph.vercel.app/graph?username=navinxqz&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Graph%20of%20last%2030%20days">
 </p>
 
 <!--  <p align="center"><img height=150px src="https://streak-stats.demolab.com?user=navinxqz&theme=react&hide_border=true&bg_color=0D1117"></p>  -->
