@@ -53,4 +53,5 @@
 </p>
 
 <!--  <p align="center"><img height=150px src="https://streak-stats.demolab.com?user=navinxqz&theme=react&hide_border=true&bg_color=0D1117"></p>  -->
-<p><img align="right" width="15%" src="https://profile-counter.glitch.me/{navinxqz}/count.svg"></p>
+<p><img align="right" width="15%" src="https://profile-counter.glitch.me/{navinxqz}/count.svg"></p><br>
+<p><img align="right" width="15%" src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg"></p>
