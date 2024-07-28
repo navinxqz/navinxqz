@@ -1,13 +1,14 @@
 <h1 align="center">⛄Hi, I'm Navin</h1>
 <h3 align="center">I'm an engineering student</h3>
-<a href="https://www.instagram.com/avocado_.exe/" target="_blank" rel="noreferrer"/><img align="right"  alt="avocado" width="180"  src="https://github.com/navinxqz/navinxqz/blob/main/3825a992-8050-4b00-8ac1-dad6e73ddbbd.png">
+<!-- <a href="https://www.instagram.com/avocado_.exe/" target="_blank" rel="noreferrer"/><img align="right"  alt="avocado" width="180"  src="https://github.com/navinxqz/navinxqz/blob/main/3825a992-8050-4b00-8ac1-dad6e73ddbbd.png"> -->
 
 
 👩🏻‍🎓 Studying Computer Science & Engineering at [AIUB](https://www.aiub.edu/)</br>
 🌱 Currently learning **C# and Frameworks**</br>
 🎨 I do **digital illustration & commissions**</br>
-📫 To reach me: **cyt.navin6@gmail.com**</br>
-🎃 Connect with me: <a href="https://instagram.com/avocado_.exe" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" alt="avocado_.exe"/></a>
+📫 To reach me: **cyt.navin6@gmail.com**</br></br>
+🎃 <a href="https://instagram.com/avocado_.exe" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" alt="avocado_.exe"/></a>
+    <a href="https://www.linkedin.com/in/md-nawshin-navin-063953296/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-000?&style=for-the-badge&logo=linkedin&logoColor=blue" style="vertical-align:center" alt="avocado_.exe"/></a>
 
 
 </p>
