@@ -8,9 +8,9 @@
 🎨 I do **digital illustration & commissions**</br>
 📫 To reach me: **cyt.navin6@gmail.com**</br></br>    -->
 
-I’m passionate about coding and continually fascinated by the magic of turning ideas into reality with just a few lines of code. I’m currently pursuing a degree in Computer Science & Engineering at [AIUB](https://www.aiub.edu/), where I'm diving deep into the world of **C#, C++ and Java**. I'm currently learning **C# and Frameworks** 🌱<br><br>
+I’m passionate about coding and continually fascinated by the magic of turning ideas into reality with just a few lines of code. I’m pursuing a degree in Computer Science & Engineering at [AIUB](https://www.aiub.edu/), where I'm diving deep into **C#, C++ & Java**. I'm currently learning **C# & Frameworks** 🌱<br><br>
 
-On the web development front, I’m honing my skills in **HTML, CSS, and Javascript**, ✨ striving to create visually appealing and responsive designs. I’m also familiar with **SQL Server Management Studio, MySQL and Oracle**, which help me manage the data.<br><br>
+On the web development front, I’m honing my skills in **HTML, CSS and Javascript**, ✨ striving to create visually appealing and responsive designs. I’m also familiar with **SQL Server Management Studio, MySQL and Oracle**, which help me manage the data.<br><br>
 
 Beyond coding, I love bringing ideas to life through my digital art. My aim is to contribute to open-source projects, that solve real-world problems and make a positive impact. I'm excited to continue learning, creating, and exploring the endless possibilities in the tech world.
 
