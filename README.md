@@ -14,7 +14,7 @@ Beyond coding, I love bringing ideas to life through my digital art. My aim is t
 <p align="center">
 🎃 <a href="https://instagram.com/avocado_.exe" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" alt="insta logo"/></a>
     <a href="https://www.linkedin.com/in/md-nawshin-navin-063953296/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-000?&style=for-the-badge&logo=linkedin&logoColor=blue" style="vertical-align:center" alt="linkedin logo"/></a>
-    <a href="https://instagram.com/avocado_.exe" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=C80036" style="vertical-align:center" alt="gmail logo"/></a> 🎃
+    <a href="mailto:cyt.navin6@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=C80036" style="vertical-align:center" alt="gmail logo"/></a> 🎃
 </p>
 
 <h2 align="left">🍄 Languages & Tools:</h2>
@@ -29,15 +29,17 @@ Beyond coding, I love bringing ideas to life through my digital art. My aim is t
     <td align="center" width="96"><img src="https://icon.icepanel.io/Technology/svg/.NET.svg" width="40" height="40" title=".Net"/><br>Dotnet </td>
     <td align="center"  width="96"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" title="HTML"/><br>HTML5 </td>
     <td align="center"  width="96"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" title="CSS"/><br>CSS </td>
+    <td align="center"  width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" title="Bootstrap"/><br>Bootstrap</td>
       
  </tr><tr>
-   <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" width="45" height="45" title="Microsoft SQL Server" /><br>Ms SQL</td> 
+   <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" width="45" height="45" title="Microsoft SQL Server" /><br>MsSQL</td> 
    <td align="center" width="96"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/oracle_original_logo_icon_146401.png" width="45" height="45" title="oracle" /><br>Oracle</td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" title="MySQL" /><br>MySQL</td>
     <td align="center" width="96"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/git_scm_logo_icon_170096.png" width="40" height="40" title="Git" /><br>Git</td>
    <td align="center" width="96"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/clip_studio_paint_macos_bigsur_icon_189480.png" width="40" height="40" title="Clip Studio Paint" /><br>ClipStudio</td>
     <td align="center" width="96"><img src="https://www.cdnlogo.com/logos/a/88/adobe-photoshop.svg" width="40" height="40" title="photoshop cc 19" /><br>Photoshop</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" title="Javascript" /><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jquery" width="40" height="40" title="jQuery" /><br>jQuery</td>
 
  </tr></table>
 
