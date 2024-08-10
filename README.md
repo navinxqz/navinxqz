@@ -39,7 +39,7 @@ Beyond coding, I love bringing ideas to life through my digital art. My aim is t
    <td align="center" width="96"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/clip_studio_paint_macos_bigsur_icon_189480.png" width="40" height="40" title="Clip Studio Paint" /><br>ClipStudio</td>
     <td align="center" width="96"><img src="https://www.cdnlogo.com/logos/a/88/adobe-photoshop.svg" width="40" height="40" title="photoshop cc 19" /><br>Photoshop</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" title="Javascript" /><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jquery" width="40" height="40" title="jQuery" /><br>jQuery</td>
+    <td align="center" width="96"><img src="https://cdn.iconscout.com/icon/free/png-512/free-jquery-3521520-2945023.png" width="40" height="40" title="jQuery" /><br>jQuery</td>
 
  </tr></table>
 
