@@ -29,10 +29,10 @@ Beyond coding, I love bringing ideas to life through my digital art. My aim is t
     <td align="center" width="96"><img src="https://icon.icepanel.io/Technology/svg/.NET.svg" width="40" height="40" title=".Net"/><br>Dotnet </td>
     <td align="center"  width="96"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" title="HTML"/><br>HTML5 </td>
     <td align="center"  width="96"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" title="CSS"/><br>CSS </td>
-    <td align="center"  width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" title="Bootstrap"/><br>Bootstrap</td>
+    <td align="center"  width="96"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" height="40" title="Bootstrap"/><br>Bootstrap</td>
       
  </tr><tr>
-   <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" width="45" height="45" title="Microsoft SQL Server" /><br>MsSQL</td> 
+   <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" title="Microsoft SQL Server" /><br>MsSQL</td> 
    <td align="center" width="96"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/oracle_original_logo_icon_146401.png" width="45" height="45" title="oracle" /><br>Oracle</td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" title="MySQL" /><br>MySQL</td>
     <td align="center" width="96"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/git_scm_logo_icon_170096.png" width="40" height="40" title="Git" /><br>Git</td>
