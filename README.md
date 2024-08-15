@@ -30,7 +30,7 @@ Beyond coding, I love bringing ideas to life through my digital art. My aim is t
     <td align="center"  width="96"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" title="HTML"/><br>HTML5 </td>
     <td align="center"  width="96"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" title="CSS"/><br>CSS </td>
     <td align="center"  width="96"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" height="40" title="Bootstrap"/><br>Bootstrap</td>
-    <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=24895&format=png&color=000000" width="40" height="40" title="node.js" /><br>node.js</td>
+    <td align="center" width="96"><img src="https://github.com/npm/logos/blob/master/npm%20logo/npm-logo-red.svg" width="40" height="40" title="node package manager" /><br>npm</td>
       
  </tr><tr>
    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" title="Microsoft SQL Server" /><br>SQLServer</td> 
