@@ -48,7 +48,7 @@ Beyond coding, I love bringing ideas to life through my digital art. My aim is t
 <summary><h2 align="left">🛠 Github Stats:</h2></summary>
 <p align="start">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=navinxqz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navinxqz&theme=react&layout=compact&bg_color=0D1117&card_width=360&hide_border=true&hide=Batchfile&include_all_commits=true&count_private=true"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navinxqz&theme=react&layout=compact&bg_color=0D1117&card_width=340&hide_border=true&hide=Batchfile&include_all_commits=true&count_private=true"/>
   <img align="center" src ="https://github-readme-activity-graph.vercel.app/graph?username=navinxqz&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Graph%20of%20last%2030%20days&height=350">
 </p>
 
