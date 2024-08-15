@@ -26,17 +26,18 @@ Beyond coding, I love bringing ideas to life through my digital art. My aim is t
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" title="C++"/> <br>C++ </td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" title="C#"/><br>C# </td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/><br>Java </td>
-    <td align="center" width="96"><img src="https://icon.icepanel.io/Technology/svg/.NET.svg" width="40" height="40" title=".Net"/><br>Dotnet </td>
+    <td align="center" width="96"><img src="https://icon.icepanel.io/Technology/svg/.NET.svg" width="40" height="40" title=".Net"/><br>dotnet </td>
     <td align="center"  width="96"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" title="HTML"/><br>HTML5 </td>
     <td align="center"  width="96"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" title="CSS"/><br>CSS </td>
     <td align="center"  width="96"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" height="40" title="Bootstrap"/><br>Bootstrap</td>
       
  </tr><tr>
-   <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" title="Microsoft SQL Server" /><br>MsSQL</td> 
+   <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" title="Microsoft SQL Server" /><br>SQLServer</td> 
    <td align="center" width="96"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/oracle_original_logo_icon_146401.png" width="45" height="45" title="oracle" /><br>Oracle</td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" title="MySQL" /><br>MySQL</td>
     <td align="center" width="96"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/git_scm_logo_icon_170096.png" width="40" height="40" title="Git" /><br>Git</td>
-   <td align="center" width="96"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/clip_studio_paint_macos_bigsur_icon_189480.png" width="40" height="40" title="Clip Studio Paint" /><br>ClipStudio</td>
+     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" title="node.js" /><br>node.js</td>
+<!--    <td align="center" width="96"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/clip_studio_paint_macos_bigsur_icon_189480.png" width="40" height="40" title="Clip Studio Paint" /><br>ClipStudio</td> -->
     <td align="center" width="96"><img src="https://www.cdnlogo.com/logos/a/88/adobe-photoshop.svg" width="40" height="40" title="photoshop cc 19" /><br>Photoshop</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" title="Javascript" /><br>JavaScript</td>
     <td align="center" width="96"><img src="https://cdn.iconscout.com/icon/free/png-512/free-jquery-3521520-2945023.png" width="40" height="40" title="jQuery" /><br>jQuery</td>
@@ -47,7 +48,7 @@ Beyond coding, I love bringing ideas to life through my digital art. My aim is t
 <summary><h2 align="left">🛠 Github Stats:</h2></summary>
 <p align="start">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=navinxqz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
-  <img align="right" height="50%" width="34%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=navinxqz&theme=react&bg_color=0D1117&hide_border=true&hide=Batchfile&include_all_commits=true&count_private=true&layout=compact">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navinxqz&theme=react&layout=compact&bg_color=0D1117&card_width=400&hide_border=true&hide=Batchfile&include_all_commits=true&count_private=true"/>
   <img align="center" src ="https://github-readme-activity-graph.vercel.app/graph?username=navinxqz&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Graph%20of%20last%2030%20days&height=350">
 </p>
 
