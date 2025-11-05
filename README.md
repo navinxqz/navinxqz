@@ -58,10 +58,14 @@ Beyond coding, I love bringing ideas to life through my digital art. My aim is t
 <p align="start">
   <img height="50%" src ="https://github-readme-stats.vercel.app/api?username=navinxqz&theme=react&show_icons=true&hide_border=true&bg_color=0D1117&count_private=true">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navinxqz&theme=react&layout=compact&bg_color=0D1117&card_width=340&hide_border=true&hide=Batchfile,Objective-C,Objective-C++,CMake&include_all_commits=true&count_private=true"/>
-  <img align="center" src ="https://github-readme-activity-graph.vercel.app/graph?username=navinxqz&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Graph%20of%20last%2030%20days&height=350">
+  <img align="center" src ="https://github-readme-activity-graph.vercel.app/graph?username=navinxqz&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=🌌+Contribution+Graph&height=350">
 </p>
 
 <!--  <p align="center"><img height=150px src="https://streak-stats.demolab.com?user=navinxqz&theme=react&hide_border=true&bg_color=0D1117"></p>  -->
-<p><img align="right" width="15%" src="https://profile-counter.glitch.me/{navinxqz}/count.svg"></p><br>
-<p><img align="right" width="15%" src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg"></p>
+<!-- <p><img align="right" width="15%" src="https://profile-counter.glitch.me/{navinxqz}/count.svg"></p><br> -->
+
+
+
+
+<!-- <p><img align="right" width="15%" src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg"></p> -->
 </details>
