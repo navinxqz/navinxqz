@@ -76,6 +76,6 @@
 <p align="start">
   <img height="50%" src ="https://github-readme-stats.vercel.app/api?username=navinxqz&theme=react&show_icons=true&hide_border=true&bg_color=0D1117&count_private=true">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navinxqz&theme=react&layout=compact&bg_color=0D1117&card_width=340&hide_border=true&include_all_commits=true&count_private=true"/>
-    <img align="center" src ="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+    <p align="center"><img src ="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/></p>
 </p>
 </details>
